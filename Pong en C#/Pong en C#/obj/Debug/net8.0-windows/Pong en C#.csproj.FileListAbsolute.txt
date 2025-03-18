@@ -1,0 +1,27 @@
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\Pong en C#.exe
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\Pong en C#.deps.json
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\Pong en C#.runtimeconfig.json
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\Pong en C#.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\Pong en C#.pdb
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong_en_C_.Form1.resources
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong_en_C_.Properties.Resources.resources
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.csproj.GenerateResource.cache
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.AssemblyInfoInputs.cache
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.AssemblyInfo.cs
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.csproj.CoreCompileInputs.cache
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\refint\Pong en C#.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.pdb
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.genruntimeconfig.cache
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\ref\Pong en C#.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.csproj.AssemblyReference.cache
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\obj\Debug\net8.0-windows\Pong en C#.csproj.Up2Date
+C:\Users\emers\Documents\GitHub\Pong en C#\Pong en C#\bin\Debug\net8.0-windows\media\rebote.mp3
